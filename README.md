@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Eakant 👋
 
-<!--
-**whizeakant/whizeakant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Systems Architect specializing in Billing, Payment, and Accounting Integrations.
 
-Here are some ideas to get you started:
+I design scalable backend systems connecting SaaS and eCommerce platforms with financial infrastructure such as Stripe, Xero, and QuickBooks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Core Expertise
+- Financial & Accounting API Integrations
+- Stripe Subscription & Billing Systems
+- SaaS Backend Architecture
+- Laravel & Node.js Systems
+- Payment Gateway Integrations
+- High-Performance API Design
+
+- ## ⚙️ Tech Stack
+Laravel • Node.js • REST APIs • Stripe API  
+Xero API • QuickBooks API • PostgreSQL • Redis • AWS
+
+## 🚀 Featured Projects
+- Billing & Subscription Engine (Stripe + Laravel)
+- Xero Integration for Ecommerce Accounting Sync
+- Custom Accounting System Backend
+- SaaS API Platform Architecture
+
+- 
