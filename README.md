@@ -1,25 +1,58 @@
 Hi, I'm Eakant 👋
+Full Stack Systems Architect | SaaS & Financial Integrations
 
-Backend Systems Architect specializing in Billing, Payment, and Accounting Integrations.
+Backend-focused engineer with 7+ years building scalable web platforms, SaaS products, and financial system integrations.
 
-I design scalable backend systems connecting SaaS and eCommerce platforms with financial infrastructure such as Stripe, Xero, and QuickBooks.
+I specialize in designing production-grade architectures — not just websites.
 
-## 🔧 Core Expertise
-- Financial & Accounting API Integrations
-- Stripe Subscription & Billing Systems
-- SaaS Backend Architecture
-- Laravel & Node.js Systems
-- Payment Gateway Integrations
-- High-Performance API Design
+🚀 Core Expertise
+SaaS Platform Architecture
+Subscription & Billing Systems
+Stripe, Xero & QuickBooks Integrations
+API Design & System Integrations
+Backend Performance Optimization
+Event-Driven Systems
+🧩 What I Build
 
-- ## ⚙️ Tech Stack
-Laravel • Node.js • REST APIs • Stripe API  
-Xero API • QuickBooks API • PostgreSQL • Redis • AWS
+✔ Subscription platforms
+✔ Payment & invoicing systems
+✔ Accounting integrations
+✔ Custom web applications
+✔ High-performance backend services
 
-## 🚀 Featured Projects
-- Billing & Subscription Engine (Stripe + Laravel)
-- Xero Integration for Ecommerce Accounting Sync
-- Custom Accounting System Backend
-- SaaS API Platform Architecture
+⚙️ Tech Stack
 
+Backend
 
+Laravel
+Node.js
+PHP
+REST APIs
+Webhooks
+
+Financial Systems
+
+Stripe Billing
+Xero API
+QuickBooks API
+Subscription Management
+
+Infrastructure
+
+AWS
+Redis
+Nginx
+PostgreSQL
+⭐ Featured Projects
+SaaS Billing System
+
+Production-style billing architecture including:
+
+Subscription lifecycle management
+Webhook processing
+Invoice persistence
+Retry & failure recovery system
+Event-driven design
+📫 Let's Connect
+
+Open to backend architecture, SaaS, and integration projects.
