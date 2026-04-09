@@ -1,18 +1,25 @@
-Hi, I'm Eakant 👋
-Full Stack Systems Architect | SaaS & Financial Integrations
+# Hi, I'm Eakant 👋
+
+## Full Stack Systems Architect | SaaS & Financial Integrations
 
 Backend-focused engineer with 7+ years building scalable web platforms, SaaS products, and financial system integrations.
 
-I specialize in designing production-grade architectures — not just websites.
+I specialize in designing **production-grade architectures** — not just websites.
 
-🚀 Core Expertise
-SaaS Platform Architecture
-Subscription & Billing Systems
-Stripe, Xero & QuickBooks Integrations
-API Design & System Integrations
-Backend Performance Optimization
-Event-Driven Systems
-🧩 What I Build
+---
+
+### 🚀 Core Expertise
+
+* SaaS Platform Architecture
+* Subscription & Billing Systems
+* Stripe, Xero & QuickBooks Integrations
+* API Design & System Integrations
+* Backend Performance Optimization
+* Event-Driven Systems
+
+---
+
+### 🧩 What I Build
 
 ✔ Subscription platforms
 ✔ Payment & invoicing systems
@@ -20,39 +27,48 @@ Event-Driven Systems
 ✔ Custom web applications
 ✔ High-performance backend services
 
-⚙️ Tech Stack
+---
 
-Backend
+### ⚙️ Tech Stack
 
-Laravel
-Node.js
-PHP
-REST APIs
-Webhooks
+**Backend**
 
-Financial Systems
+* Laravel
+* Node.js
+* PHP
+* REST APIs
+* Webhooks
 
-Stripe Billing
-Xero API
-QuickBooks API
-Subscription Management
+**Financial Systems**
 
-Infrastructure
+* Stripe Billing
+* Xero API
+* QuickBooks API
+* Subscription Management
 
-AWS
-Redis
-Nginx
-PostgreSQL
-⭐ Featured Projects
-SaaS Billing System
+**Infrastructure**
+
+* AWS
+* Redis
+* Nginx
+* PostgreSQL
+
+---
+
+### ⭐ Featured Projects
+
+#### SaaS Billing System
 
 Production-style billing architecture including:
 
-Subscription lifecycle management
-Webhook processing
-Invoice persistence
-Retry & failure recovery system
-Event-driven design
-📫 Let's Connect
+* Subscription lifecycle management
+* Webhook processing
+* Invoice persistence
+* Retry & failure recovery system
+* Event-driven design
+
+---
+
+### 📫 Let's Connect
 
 Open to backend architecture, SaaS, and integration projects.
